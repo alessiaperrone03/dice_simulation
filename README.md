@@ -25,9 +25,13 @@ The **Dice Simulation** is a Python-based program that simulates rolling a dice 
 
    ```bash
    git clone https://github.com/yourusername/dice-simulation.git
+
+2. Navigate in your local directory
    
    ```bash
    cd dice-simulation
+
+3. Run the simulation
    
    ```bash
    python dice_simulation.py
